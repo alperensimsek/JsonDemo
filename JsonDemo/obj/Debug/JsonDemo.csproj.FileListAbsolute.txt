@@ -1,0 +1,12 @@
+C:\Users\Majestic\source\repos\JsonDemo\JsonDemo\bin\Debug\JsonDemo.exe.config
+C:\Users\Majestic\source\repos\JsonDemo\JsonDemo\bin\Debug\JsonDemo.exe
+C:\Users\Majestic\source\repos\JsonDemo\JsonDemo\bin\Debug\JsonDemo.pdb
+C:\Users\Majestic\source\repos\JsonDemo\JsonDemo\bin\Debug\lib.dll
+C:\Users\Majestic\source\repos\JsonDemo\JsonDemo\obj\Debug\JsonDemo.csprojAssemblyReference.cache
+C:\Users\Majestic\source\repos\JsonDemo\JsonDemo\obj\Debug\JsonDemo.Properties.Resources.resources
+C:\Users\Majestic\source\repos\JsonDemo\JsonDemo\obj\Debug\JsonDemo.csproj.GenerateResource.cache
+C:\Users\Majestic\source\repos\JsonDemo\JsonDemo\obj\Debug\JsonDemo.csproj.CoreCompileInputs.cache
+C:\Users\Majestic\source\repos\JsonDemo\JsonDemo\obj\Debug\JsonDemo.csproj.CopyComplete
+C:\Users\Majestic\source\repos\JsonDemo\JsonDemo\obj\Debug\JsonDemo.exe
+C:\Users\Majestic\source\repos\JsonDemo\JsonDemo\obj\Debug\JsonDemo.pdb
+C:\Users\Majestic\source\repos\JsonDemo\JsonDemo\obj\Debug\JsonDemo.Form1.resources
